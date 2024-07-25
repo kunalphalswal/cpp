@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 string readFile(string fileName){
-    ifstream file(fileName);
+    ifstream file(fileName); //i in ifstream stands for input
     stringstream buffer;
     buffer<<file.rdbuf();
     string content=buffer.str();
