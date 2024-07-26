@@ -65,16 +65,12 @@ int main(){
     string fileName = "text.txt"; //need to mention full path here
     //to access a file's content from a given location.
     cout<<"Reading the whole file together:\n";
-    cout<<readFile(fileName);//also incorporates the new line markdown.
-    cout<<"Reading the file line by line.\n";
+    cout<<readFile(fileName);//also incorporates the new line character.
+    cout<<"\nReading the file line by line.\n";
     cout<<readLines(fileName);
     cout<<"\nReading the file word by word\n";
     cout<<readWords(fileName);
     cout<<"\nReading the file character by character.\n";
     cout<<readCharacters(fileName);//incorporates the new line character as well, because it reads every character.
-
-    //questions
-    //1. can mardown characters like \n or \t be read while traversing a string
-
     return 0;
 }

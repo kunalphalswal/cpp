@@ -2,7 +2,7 @@
 
 Opening a file in cpp means associating that file with stream objects through which we can perform operations on the file.
 
-``` 
+```c++ 
 fstream file(filePath, mode);
 ```
 
@@ -26,6 +26,10 @@ std::ifstream check(filename);
     }
     check.close();
 ```
+### File Path:
+1. Absolute: specify the full path (e.g., "/home/user/documents/file.txt").
+2. Relative: ensure it's relative to the directory where your program is being executed.
+
 ### Mode:
 Set of operations we are allowed to perform on a file.
 - ios::in: Open the file for reading. This is the default mode if no mode is specified.
@@ -39,4 +43,6 @@ We can combine different modes using or symbol | .
 Eg: ios::in | ios::out , which is the default mode for fstream object.
 
 ### Notes:
-Wherever we decide to write in a file (say at a pointer p), we erase all the existing content of the file from pointer p till the end, and then perform our write operation. (for append, we write from the eof, from which the file is already empty.)
+1. Wherever we decide to write in a file (say at a pointer p), we erase all the existing content of the file from pointer p till the end, and then perform our write operation. (for append, we write from the eof, from which the file is already empty.)
+2. Formatting characters in the file like \n or \t will reflect where you store the file content only if you access whole content at once or you access each character one by one.
+3. Delimiters: Which character we use to segregate the content. It means that we will store the content of the file into the specified object until we encounter a delimiter character, which will be discarded.
