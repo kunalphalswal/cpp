@@ -6,12 +6,17 @@ class node{
     node* left;
     node* right;
     node* parent;
+    //augmentation: modifying/adding to the above basic structure of a bst node to serve some new purpose.
+    int subSize;
+    // the no of nodes in the tree starting from this node.
+    //can be used to calculate where this node lies in the sorted order or rank.
     public:
     node(int val){
         this->key=val;
         this->left=nullptr;
         this->right=nullptr;
         this->parent=nullptr;
+        this->subSize=1;
     }
     friend class BST;
 };
@@ -31,26 +36,54 @@ class BST{
             root=newNode;
             return;
         }
-        auto ptr=root;
-        while(ptr){
-            if(ptr->key>key){
-                if(ptr->left==nullptr){
-                    ptr->left=newNode;
-                    newNode->parent=ptr;
-                    break;
-                }else ptr=ptr->left;
-            }else if(ptr->key==key){
-                cout<<"Given key already exists";
-                return;
-            }else{
-                if(ptr->right==nullptr){
-                    newNode->parent=ptr;
-                    ptr->right=newNode;
-                    break;
-                }else{
-                    ptr=ptr->right;
-                }
+        if(!insert(this->root,newNode)){
+            cout<<"Given Key "<<key<<" Already exists\n";//how to output this in red
+        }
+    }
+    bool insert(node*ptr,node*newNode){//whether the insert was successful or not
+        if(ptr->key>newNode->key){
+            if(ptr->left==nullptr){
+                ptr->left=newNode;
+                newNode->parent=ptr;
+                ptr->subSize+=1;
+            }else {
+                bool success=insert(ptr->left,newNode);
+                if(success)ptr->subSize+=1;
             }
+        }else if(ptr->key==newNode->key){
+            return false;
+        }else{
+            if(ptr->right==nullptr){
+                newNode->parent=ptr;
+                ptr->right=newNode;
+                ptr->subSize+=1;
+            }else{
+                bool success=insert(ptr->right,newNode);
+                if(success)ptr->subSize+=1;
+            }
+        }
+        return true;
+    }
+    int rank(int key){//where that key would lie
+        //even if that node exists or doesn't exist.
+        return rank(root,key);
+    }
+    int rank(node*ptr,int key){
+        if(ptr==nullptr){
+            return 0;//in case key isn't present, where it would be present.
+        }
+        if(ptr->key==key){
+            if(ptr->left){
+                return ptr->left->subSize+1;
+            }else return 1;
+        }else if(ptr->key<key){
+            if(ptr->left){
+                return ptr->left->subSize+1+rank(ptr->right,key);
+            }else{
+                return 1+rank(ptr->right,key);
+            }
+        }else{
+            return rank(ptr->left,key);
         }
     }
     void remove(int key){
@@ -230,8 +263,8 @@ class BST{
 
 int main(){
     //to set new seed for rand(), which is used in bst->remove() to generate randomness in replacing the removed node with its predecessor or 
-    //successor
-    srand(time(NULL));
+    // //successor
+    // srand(time(NULL)); //this somehow keeps the objects the same.
     auto bst=new BST();
     bst->insert(3);
     bst->insert(1);
@@ -242,5 +275,6 @@ int main(){
     bst->insert(-1);
     auto inorder=bst->inorderTraversal();
     for(auto & a:inorder)cout<<a<<" ";
+    cout<<'\n'<<bst->rank(3)<<"\n";
     return 0;
 }
