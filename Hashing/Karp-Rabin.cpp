@@ -11,6 +11,7 @@ class RollingHash{
     int base;
     int n;
     void initialize(){
+        //choosing large m to minimize collisions.
         m=rand()+INT_MAX;
         if(m%2==0){
             m+=1;
@@ -50,12 +51,16 @@ class RollingHash{
     RollingHash(string & s){
         initialize();
         n=s.size();
+        //hash of a given string would be its representation in another base. will be unique for each string
+        //modulo is used to avoid overflow because results will get large. modulo reprn can be same for multiple nos, hence we manually check
+        //if two strings are equal in case their hashes turn out to be equal.
         for(int i=0;i<n;i++){
             hash=(hash+calculateHash(s[i],n-1-i,base))%m;
         }
     }
     
     void append(char ch){
+        //how adding another element to the back of string would reflect in its base representation or hash
         hash=((hash*base)%m+int(ch))%m;
         n+=1;
     }
@@ -64,6 +69,7 @@ class RollingHash{
         return hash;
     }
     void pop(char ch){
+        //how removing the most significant no. will reflect in its base representation or hash
         hash=(hash-calculateHash(ch,n-1,base))%m;
         n-=1;
     }
