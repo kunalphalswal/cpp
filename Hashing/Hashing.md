@@ -68,3 +68,4 @@ Because at the point of 2^k <-> 2^k+1, we will keep doubling and reducing size o
 ![alt text](image-4.png)
 
 there are methods that do table   resizing in parallel, so that qhwn requirement comes, our table is ready
+what is amortization

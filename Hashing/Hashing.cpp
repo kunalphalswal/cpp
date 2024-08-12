@@ -15,8 +15,9 @@ class HashTable{//assuming we already have numeric representations of keys. and 
     ll a;
     HashTable(){
         this->a=1ll*rand()+INT_MAX;
+        if(this->a%2==0)this->a+=1;
         while(!isPrime(this->a)){
-            this->a++;
+            this->a+=2;
         }
         this->n=0;
         this->m=8;
