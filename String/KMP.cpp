@@ -13,7 +13,7 @@ class KMP{
         vector<int>lps(m,0);
         int j=0;
         for(int i=1;i<m;i++){
-            if(s[i]==s[max(0,j-1)]){
+            if(s[i]==s[j]){
                 j+=1;
             }else j=0;
             lps[i]=j;
@@ -26,11 +26,11 @@ class KMP{
             if(t[i]==s[j]){
                 j++;
             }else{
-                j=lps[j];
+                j=(j>0)?(lps[j-1]):0;
             }
             if(j==m){
                 ans.push_back(i-m+1);
-                j=0;
+                j=lps[m-1];
             }
         }
         return ans;
@@ -38,8 +38,8 @@ class KMP{
 };
 
 int main(){
-    string s="hare";
-    string t="hare rama hare rama, rama rama hare hare";
+    string s="abxa";
+    string t="abxabxabxabxa";
     auto res=KMP::findOccurences(s,t);
     for(int i=0;i<res.size();i++){
         cout<<res[i]<<" ";

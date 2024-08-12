@@ -106,6 +106,7 @@ class KarpRabin{
     }
 };
 int main(){
+    //as compared to KMP, this is harder to implement in a live setting.
     string s="rama";
     string t="hare rama hare rama, rama rama hare hare";
     auto res=KarpRabin::findOccurences(s,t);
