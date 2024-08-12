@@ -58,7 +58,7 @@ create an array whose values are the counts of indices.
 - what if we are not just sorting numbers but records of data whose just one attribute is the key on the basis of which we are sorting.
 - we create vector of vectors and keep pushing back the record to its corresponding 1d vector in the 2d vector.
 - and then for each value in each index of 2d vector starting from beginning, extend that value in the sorted array.
-Complexity: O(n+k) because k can get little bit bigger than k.
+Complexity: O(n+k) because k can get little bit bigger than n and not each value from 0 to k will be having associated elements but we'll still need to traverse them all.
 - What if through counting sort, we had a secondary attribute on the basis of which we wanted to sort the elements with equal primary attribute.
 Refer Radix sort for that.
 
@@ -69,6 +69,6 @@ Refer Radix sort for that.
 - Complexity: nlogK at base b
 - Magical and correct.
 - And because the base representation can have multiple values at each digit (say base b>2), we sort on basis of each digit using counting sort, which has complexity O(n+b).
-- hence total time: O((n+b).logbK)
+- hence total time: O((n+b).logK), log being base b 
 - choosing b to minimize this complexity. should be min(n,k). which is usually n.
 ![alt text](image-4.png)

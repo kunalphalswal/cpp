@@ -1,0 +1,2 @@
+- The no of nodes will always be 2*n-1 but their indexing within the array might get more than 2*n-1 because there is no guarantee that the tree is a complete binary tree because at the last level, there may be nodes present on the right side but not on the left side.
+hence it's advised to keep the array order of 4*n i.e. double the nodes in the tree.

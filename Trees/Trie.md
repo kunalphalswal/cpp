@@ -1,1 +1,1 @@
-Count no of strings with given prefix in O(length of max string) after pre-processing.
+used to count no of strings with given prefix in O(length of max string) after pre-processing.
