@@ -69,3 +69,7 @@ Because at the point of 2^k <-> 2^k+1, we will keep doubling and reducing size o
 
 there are methods that do table   resizing in parallel, so that qhwn requirement comes, our table is ready
 what is amortization
+
+
+Tips:
+- Reserve the number of buckets in advance, if it is known how much elements will need to be hashed, to prevent dynamic incrementing of hash table size, and then subsequent rehashing of existing elements.

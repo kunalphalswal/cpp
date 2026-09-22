@@ -1,0 +1,1500 @@
+1,Two Sum,Easy
+3,Longest Substring Without Repeating Characters,Medium
+53,Maximum Subarray,Medium
+42,Trapping Rain Water,Hard
+2,Add Two Numbers,Medium
+121,Best Time to Buy and Sell Stock,Easy
+15,3Sum,Medium
+11,Container With Most Water,Medium
+5,Longest Palindromic Substring,Medium
+4,Median of Two Sorted Arrays,Hard
+33,Search in Rotated Sorted Array,Medium
+20,Valid Parentheses,Easy
+238,Product of Array Except Self,Medium
+287,Find the Duplicate Number,Medium
+200,Number of Islands,Medium
+21,Merge Two Sorted Lists,Easy
+560,Subarray Sum Equals K,Medium
+56,Merge Intervals,Medium
+70,Climbing Stairs,Easy
+206,Reverse Linked List,Easy
+198,House Robber,Medium
+22,Generate Parentheses,Medium
+34,Find First and Last Position of Element in Sorted Array,Medium
+146,LRU Cache,Medium
+300,Longest Increasing Subsequence,Medium
+128,Longest Consecutive Sequence,Medium
+169,Majority Element,Easy
+49,Group Anagrams,Medium
+55,Jump Game,Medium
+23,Merge k Sorted Lists,Hard
+75,Sort Colors,Medium
+31,Next Permutation,Medium
+19,Remove Nth Node From End of List,Medium
+39,Combination Sum,Medium
+46,Permutations,Medium
+322,Coin Change,Medium
+17,Letter Combinations of a Phone Number,Medium
+189,Rotate Array,Medium
+14,Longest Common Prefix,Easy
+152,Maximum Product Subarray,Medium
+239,Sliding Window Maximum,Hard
+76,Minimum Window Substring,Hard
+48,Rotate Image,Medium
+84,Largest Rectangle in Histogram,Hard
+347,Top K Frequent Elements,Medium
+78,Subsets,Medium
+283,Move Zeroes,Easy
+139,Word Break,Medium
+215,Kth Largest Element in an Array,Medium
+236,Lowest Common Ancestor of a Binary Tree,Medium
+136,Single Number,Easy
+35,Search Insert Position,Easy
+124,Binary Tree Maximum Path Sum,Hard
+98,Validate Binary Search Tree,Medium
+41,First Missing Positive,Hard
+62,Unique Paths,Medium
+234,Palindrome Linked List,Easy
+88,Merge Sorted Array,Easy
+26,Remove Duplicates from Sorted Array,Easy
+207,Course Schedule,Medium
+74,Search a 2D Matrix,Medium
+79,Word Search,Medium
+141,Linked List Cycle,Easy
+54,Spiral Matrix,Medium
+13,Roman to Integer,Easy
+102,Binary Tree Level Order Traversal,Medium
+73,Set Matrix Zeroes,Medium
+101,Symmetric Tree,Easy
+105,Construct Binary Tree from Preorder and Inorder Traversal,Medium
+160,Intersection of Two Linked Lists,Easy
+72,Edit Distance,Medium
+45,Jump Game II,Medium
+155,Min Stack,Medium
+543,Diameter of Binary Tree,Easy
+138,Copy List with Random Pointer,Medium
+25,Reverse Nodes in k-Group,Hard
+122,Best Time to Buy and Sell Stock II,Medium
+226,Invert Binary Tree,Easy
+9,Palindrome Number,Easy
+7,Reverse Integer,Medium
+142,Linked List Cycle II,Medium
+1143,Longest Common Subsequence,Medium
+153,Find Minimum in Rotated Sorted Array,Medium
+118,Pascal's Triangle,Easy
+94,Binary Tree Inorder Traversal,Easy
+994,Rotting Oranges,Medium
+739,Daily Temperatures,Medium
+131,Palindrome Partitioning,Medium
+162,Find Peak Element,Medium
+104,Maximum Depth of Binary Tree,Easy
+209,Minimum Size Subarray Sum,Medium
+51,N-Queens,Hard
+268,Missing Number,Easy
+394,Decode String,Medium
+242,Valid Anagram,Easy
+416,Partition Equal Subset Sum,Medium
+64,Minimum Path Sum,Medium
+114,Flatten Binary Tree to Linked List,Medium
+217,Contains Duplicate,Easy
+127,Word Ladder,Hard
+134,Gas Station,Medium
+199,Binary Tree Right Side View,Medium
+32,Longest Valid Parentheses,Hard
+10,Regular Expression Matching,Hard
+704,Binary Search,Easy
+438,Find All Anagrams in a String,Medium
+167,Two Sum II - Input Array Is Sorted,Medium
+295,Find Median from Data Stream,Hard
+875,Koko Eating Bananas,Medium
+876,Middle of the Linked List,Easy
+240,Search a 2D Matrix II,Medium
+24,Swap Nodes in Pairs,Medium
+148,Sort List,Medium
+91,Decode Ways,Medium
+567,Permutation in String,Medium
+92,Reverse Linked List II,Medium
+540,Single Element in a Sorted Array,Medium
+100,Same Tree,Easy
+18,4Sum,Medium
+230,Kth Smallest Element in a BST,Medium
+424,Longest Repeating Character Replacement,Medium
+208,Implement Trie (Prefix Tree),Medium
+746,Min Cost Climbing Stairs,Easy
+494,Target Sum,Medium
+36,Valid Sudoku,Medium
+143,Reorder List,Medium
+235,Lowest Common Ancestor of a Binary Search Tree,Medium
+40,Combination Sum II,Medium
+863,All Nodes Distance K in Binary Tree,Medium
+103,Binary Tree Zigzag Level Order Traversal,Medium
+338,Counting Bits,Easy
+437,Path Sum III,Medium
+279,Perfect Squares,Medium
+108,Convert Sorted Array to Binary Search Tree,Easy
+110,Balanced Binary Tree,Easy
+210,Course Schedule II,Medium
+202,Happy Number,Easy
+621,Task Scheduler,Medium
+85,Maximal Rectangle,Hard
+57,Insert Interval,Medium
+647,Palindromic Substrings,Medium
+16,3Sum Closest,Medium
+50,"Pow(x, n)",Medium
+763,Partition Labels,Medium
+328,Odd Even Linked List,Medium
+442,Find All Duplicates in an Array,Medium
+410,Split Array Largest Sum,Hard
+297,Serialize and Deserialize Binary Tree,Hard
+787,Cheapest Flights Within K Stops,Medium
+125,Valid Palindrome,Easy
+96,Unique Binary Search Trees,Medium
+61,Rotate List,Medium
+221,Maximal Square,Medium
+66,Plus One,Easy
+547,Number of Provinces,Medium
+37,Sudoku Solver,Hard
+213,House Robber II,Medium
+229,Majority Element II,Medium
+90,Subsets II,Medium
+1011,Capacity To Ship Packages Within D Days,Medium
+392,Is Subsequence,Easy
+695,Max Area of Island,Medium
+542,01 Matrix,Medium
+112,Path Sum,Easy
+378,Kth Smallest Element in a Sorted Matrix,Medium
+123,Best Time to Buy and Sell Stock III,Hard
+133,Clone Graph,Medium
+402,Remove K Digits,Medium
+116,Populating Next Right Pointers in Each Node,Medium
+120,Triangle,Medium
+67,Add Binary,Easy
+516,Longest Palindromic Subsequence,Medium
+205,Isomorphic Strings,Easy
+450,Delete Node in a BST,Medium
+518,Coin Change II,Medium
+212,Word Search II,Hard
+448,Find All Numbers Disappeared in an Array,Easy
+399,Evaluate Division,Medium
+1004,Max Consecutive Ones III,Medium
+309,Best Time to Buy and Sell Stock with Cooldown,Medium
+151,Reverse Words in a String,Medium
+977,Squares of a Sorted Array,Easy
+380,Insert Delete GetRandom O(1),Medium
+312,Burst Balloons,Hard
+130,Surrounded Regions,Medium
+83,Remove Duplicates from Sorted List,Easy
+387,First Unique Character in a String,Easy
+662,Maximum Width of Binary Tree,Medium
+63,Unique Paths II,Medium
+82,Remove Duplicates from Sorted List II,Medium
+329,Longest Increasing Path in a Matrix,Hard
+496,Next Greater Element I,Easy
+81,Search in Rotated Sorted Array II,Medium
+222,Count Complete Tree Nodes,Easy
+179,Largest Number,Medium
+344,Reverse String,Easy
+69,Sqrt(x),Easy
+733,Flood Fill,Easy
+315,Count of Smaller Numbers After Self,Hard
+316,Remove Duplicate Letters,Medium
+173,Binary Search Tree Iterator,Medium
+767,Reorganize String,Medium
+135,Candy,Hard
+617,Merge Two Binary Trees,Easy
+785,Is Graph Bipartite?,Medium
+724,Find Pivot Index,Easy
+509,Fibonacci Number,Easy
+47,Permutations II,Medium
+735,Asteroid Collision,Medium
+337,House Robber III,Medium
+451,Sort Characters By Frequency,Medium
+907,Sum of Subarray Minimums,Medium
+973,K Closest Points to Origin,Medium
+44,Wildcard Matching,Hard
+435,Non-overlapping Intervals,Medium
+658,Find K Closest Elements,Medium
+203,Remove Linked List Elements,Easy
+278,First Bad Version,Easy
+6,Zigzag Conversion,Medium
+503,Next Greater Element II,Medium
+310,Minimum Height Trees,Medium
+680,Valid Palindrome II,Easy
+77,Combinations,Medium
+572,Subtree of Another Tree,Easy
+983,Minimum Cost For Tickets,Medium
+334,Increasing Triplet Subsequence,Medium
+97,Interleaving String,Medium
+144,Binary Tree Preorder Traversal,Easy
+204,Count Primes,Medium
+106,Construct Binary Tree from Inorder and Postorder Traversal,Medium
+129,Sum Root to Leaf Numbers,Medium
+525,Contiguous Array,Medium
+137,Single Number II,Medium
+1480,Running Sum of 1d Array,Easy
+113,Path Sum II,Medium
+99,Recover Binary Search Tree,Medium
+987,Vertical Order Traversal of a Binary Tree,Hard
+232,Implement Queue using Stacks,Easy
+150,Evaluate Reverse Polish Notation,Medium
+852,Peak Index in a Mountain Array,Medium
+743,Network Delay Time,Medium
+12,Integer to Roman,Medium
+417,Pacific Atlantic Water Flow,Medium
+350,Intersection of Two Arrays II,Easy
+211,Design Add and Search Words Data Structure,Medium
+581,Shortest Unsorted Continuous Subarray,Medium
+692,Top K Frequent Words,Medium
+452,Minimum Number of Arrows to Burst Balloons,Medium
+80,Remove Duplicates from Sorted Array II,Medium
+188,Best Time to Buy and Sell Stock IV,Hard
+86,Partition List,Medium
+95,Unique Binary Search Trees II,Medium
+740,Delete and Earn,Medium
+844,Backspace String Compare,Easy
+290,Word Pattern,Easy
+109,Convert Sorted List to Binary Search Tree,Medium
+231,Power of Two,Easy
+1048,Longest String Chain,Medium
+111,Minimum Depth of Binary Tree,Easy
+377,Combination Sum IV,Medium
+974,Subarray Sums Divisible by K,Medium
+1539,Kth Missing Positive Number,Easy
+145,Binary Tree Postorder Traversal,Easy
+797,All Paths From Source to Target,Medium
+456,132 Pattern,Medium
+43,Multiply Strings,Medium
+714,Best Time to Buy and Sell Stock with Transaction Fee,Medium
+140,Word Break II,Hard
+721,Accounts Merge,Medium
+698,Partition to K Equal Sum Subsets,Medium
+713,Subarray Product Less Than K,Medium
+1249,Minimum Remove to Make Valid Parentheses,Medium
+406,Queue Reconstruction by Height,Medium
+115,Distinct Subsequences,Hard
+1091,Shortest Path in Binary Matrix,Medium
+938,Range Sum of BST,Easy
+1235,Maximum Profit in Job Scheduling,Hard
+253,Meeting Rooms II,Medium
+673,Number of Longest Increasing Subsequence,Medium
+463,Island Perimeter,Easy
+605,Can Place Flowers,Easy
+653,Two Sum IV - Input is a BST,Easy
+918,Maximum Sum Circular Subarray,Medium
+60,Permutation Sequence,Hard
+28,Find the Index of the First Occurrence in a String,Easy
+257,Binary Tree Paths,Easy
+718,Maximum Length of Repeated Subarray,Medium
+219,Contains Duplicate II,Easy
+684,Redundant Connection,Medium
+901,Online Stock Span,Medium
+191,Number of 1 Bits,Easy
+912,Sort an Array,Medium
+1047,Remove All Adjacent Duplicates In String,Easy
+997,Find the Town Judge,Easy
+931,Minimum Falling Path Sum,Medium
+1423,Maximum Points You Can Obtain from Cards,Medium
+802,Find Eventual Safe States,Medium
+224,Basic Calculator,Hard
+264,Ugly Number II,Medium
+59,Spiral Matrix II,Medium
+493,Reverse Pairs,Hard
+678,Valid Parenthesis String,Medium
+523,Continuous Subarray Sum,Medium
+368,Largest Divisible Subset,Medium
+881,Boats to Save People,Medium
+373,Find K Pairs with Smallest Sums,Medium
+459,Repeated Substring Pattern,Easy
+289,Game of Life,Medium
+225,Implement Stack using Queues,Easy
+992,Subarrays with K Different Integers,Hard
+260,Single Number III,Medium
+349,Intersection of Two Arrays,Easy
+1008,Construct Binary Search Tree from Preorder Traversal,Medium
+395,Longest Substring with At Least K Repeating Characters,Medium
+1192,Critical Connections in a Network,Hard
+1631,Path With Minimum Effort,Medium
+841,Keys and Rooms,Medium
+227,Basic Calculator II,Medium
+216,Combination Sum III,Medium
+1046,Last Stone Weight,Easy
+485,Max Consecutive Ones,Easy
+126,Word Ladder II,Hard
+700,Search in a Binary Search Tree,Easy
+354,Russian Doll Envelopes,Hard
+71,Simplify Path,Medium
+947,Most Stones Removed with Same Row or Column,Medium
+701,Insert into a Binary Search Tree,Medium
+241,Different Ways to Add Parentheses,Medium
+703,Kth Largest Element in a Stream,Easy
+409,Longest Palindrome,Easy
+332,Reconstruct Itinerary,Hard
+1448,Count Good Nodes in Binary Tree,Medium
+1642,Furthest Building You Can Reach,Medium
+460,LFU Cache,Hard
+557,Reverse Words in a String III,Easy
+218,The Skyline Problem,Hard
+117,Populating Next Right Pointers in Each Node II,Medium
+174,Dungeon Game,Hard
+445,Add Two Numbers II,Medium
+486,Predict the Winner,Medium
+583,Delete Operation for Two Strings,Medium
+946,Validate Stack Sequences,Medium
+652,Find Duplicate Subtrees,Medium
+1470,Shuffle the Array,Easy
+669,Trim a Binary Search Tree,Medium
+301,Remove Invalid Parentheses,Hard
+979,Distribute Coins in Binary Tree,Medium
+58,Length of Last Word,Easy
+1209,Remove All Adjacent Duplicates in String II,Medium
+237,Delete Node in a Linked List,Medium
+168,Excel Sheet Column Title,Easy
+403,Frog Jump,Hard
+443,String Compression,Medium
+1277,Count Square Submatrices with All Ones,Medium
+834,Sum of Distances in Tree,Hard
+421,Maximum XOR of Two Numbers in an Array,Medium
+665,Non-decreasing Array,Medium
+986,Interval List Intersections,Medium
+1071,Greatest Common Divisor of Strings,Easy
+29,Divide Two Integers,Medium
+904,Fruit Into Baskets,Medium
+132,Palindrome Partitioning II,Hard
+1512,Number of Good Pairs,Easy
+1092,Shortest Common Supersequence ,Hard
+1365,How Many Numbers Are Smaller Than the Current Number,Easy
+8,String to Integer (atoi),Medium
+792,Number of Matching Subsequences,Medium
+404,Sum of Left Leaves,Easy
+934,Shortest Bridge,Medium
+1658,Minimum Operations to Reduce X to Zero,Medium
+474,Ones and Zeroes,Medium
+1721,Swapping Nodes in a Linked List,Medium
+905,Sort Array By Parity,Easy
+968,Binary Tree Cameras,Hard
+856,Score of Parentheses,Medium
+413,Arithmetic Slices,Medium
+93,Restore IP Addresses,Medium
+637,Average of Levels in Binary Tree,Easy
+383,Ransom Note,Easy
+190,Reverse Bits,Easy
+1312,Minimum Insertion Steps to Make a String Palindrome,Hard
+1584,Min Cost to Connect All Points,Medium
+1319,Number of Operations to Make Network Connected,Medium
+1838,Frequency of the Most Frequent Element,Medium
+1207,Unique Number of Occurrences,Easy
+980,Unique Paths III,Hard
+1482,Minimum Number of Days to Make m Bouquets,Medium
+538,Convert BST to Greater Tree,Medium
+654,Maximum Binary Tree,Medium
+706,Design HashMap,Easy
+771,Jewels and Stones,Easy
+415,Add Strings,Easy
+430,Flatten a Multilevel Doubly Linked List,Medium
+389,Find the Difference,Easy
+343,Integer Break,Medium
+1155,Number of Dice Rolls With Target Sum,Medium
+258,Add Digits,Easy
+376,Wiggle Subsequence,Medium
+304,Range Sum Query 2D - Immutable,Medium
+894,All Possible Full Binary Trees,Medium
+1248,Count Number of Nice Subarrays,Medium
+119,Pascal's Triangle II,Easy
+1351,Count Negative Numbers in a Sorted Matrix,Easy
+981,Time Based Key-Value Store,Medium
+345,Reverse Vowels of a String,Easy
+862,Shortest Subarray with Sum at Least K,Hard
+107,Binary Tree Level Order Traversal II,Medium
+1026,Maximum Difference Between Node and Ancestor,Medium
+645,Set Mismatch,Easy
+1268,Search Suggestions System,Medium
+454,4Sum II,Medium
+1647,Minimum Deletions to Make Character Frequencies Unique,Medium
+341,Flatten Nested List Iterator,Medium
+307,Range Sum Query - Mutable,Medium
+953,Verifying an Alien Dictionary,Easy
+752,Open the Lock,Medium
+171,Excel Sheet Column Number,Easy
+154,Find Minimum in Rotated Sorted Array II,Hard
+1043,Partition Array for Maximum Sum,Medium
+38,Count and Say,Medium
+827,Making A Large Island,Hard
+895,Maximum Frequency Stack,Hard
+886,Possible Bipartition,Medium
+1027,Longest Arithmetic Subsequence,Medium
+1029,Two City Scheduling,Medium
+921,Minimum Add to Make Parentheses Valid,Medium
+1431,Kids With the Greatest Number of Candies,Easy
+871,Minimum Number of Refueling Stops,Hard
+646,Maximum Length of Pair Chain,Medium
+1302,Deepest Leaves Sum,Medium
+784,Letter Case Permutation,Medium
+729,My Calendar I,Medium
+744,Find Smallest Letter Greater Than Target,Easy
+1110,Delete Nodes And Return Forest,Medium
+1293,Shortest Path in a Grid with Obstacles Elimination,Hard
+2095,Delete the Middle Node of a Linked List,Medium
+1094,Car Pooling,Medium
+1137,N-th Tribonacci Number,Easy
+1254,Number of Closed Islands,Medium
+1672,Richest Customer Wealth,Easy
+455,Assign Cookies,Easy
+1768,Merge Strings Alternately,Easy
+1493,Longest Subarray of 1's After Deleting One Element,Medium
+1547,Minimum Cost to Cut a Stick,Hard
+530,Minimum Absolute Difference in BST,Easy
+269,Alien Dictionary,Hard
+1290,Convert Binary Number in a Linked List to Integer,Easy
+814,Binary Tree Pruning,Medium
+725,Split Linked List in Parts,Medium
+336,Palindrome Pairs,Hard
+796,Rotate String,Easy
+407,Trapping Rain Water II,Hard
+1498,Number of Subsequences That Satisfy the Given Sum Condition,Medium
+930,Binary Subarrays With Sum,Medium
+815,Bus Routes,Hard
+1752,Check if Array Is Sorted and Rotated,Easy
+371,Sum of Two Integers,Medium
+741,Cherry Pickup,Hard
+847,Shortest Path Visiting All Nodes,Hard
+367,Valid Perfect Square,Easy
+659,Split Array into Consecutive Subsequences,Medium
+926,Flip String to Monotone Increasing,Medium
+1466,Reorder Routes to Make All Paths Lead to the City Zero,Medium
+1239,Maximum Length of a Concatenated String with Unique Characters,Medium
+1038,Binary Search Tree to Greater Sum Tree,Medium
+958,Check Completeness of a Binary Tree,Medium
+1020,Number of Enclaves,Medium
+214,Shortest Palindrome,Hard
+355,Design Twitter,Medium
+897,Increasing Order Search Tree,Easy
+628,Maximum Product of Three Numbers,Easy
+1002,Find Common Characters,Easy
+149,Max Points on a Line,Hard
+687,Longest Univalue Path,Medium
+1130,Minimum Cost Tree From Leaf Values,Medium
+228,Summary Ranges,Easy
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,Medium
+342,Power of Four,Easy
+650,2 Keys Keyboard,Medium
+1463,Cherry Pickup II,Hard
+27,Remove Element,Easy
+68,Text Justification,Hard
+872,Leaf-Similar Trees,Easy
+1010,Pairs of Songs With Total Durations Divisible by 60,Medium
+1337,The K Weakest Rows in a Matrix,Easy
+1306,Jump Game III,Medium
+632,Smallest Range Covering Elements from K Lists,Hard
+993,Cousins in Binary Tree,Easy
+1358,Number of Substrings Containing All Three Characters,Medium
+670,Maximum Swap,Medium
+1162,As Far from Land as Possible,Medium
+498,Diagonal Traverse,Medium
+1376,Time Needed to Inform All Employees,Medium
+201,Bitwise AND of Numbers Range,Medium
+441,Arranging Coins,Easy
+1971,Find if Path Exists in Graph,Easy
+1342,Number of Steps to Reduce a Number to Zero,Easy
+52,N-Queens II,Hard
+696,Count Binary Substrings,Easy
+374,Guess Number Higher or Lower,Easy
+712,Minimum ASCII Delete Sum for Two Strings,Medium
+532,K-diff Pairs in an Array,Medium
+643,Maximum Average Subarray I,Easy
+515,Find Largest Value in Each Tree Row,Medium
+778,Swim in Rising Water,Hard
+790,Domino and Tromino Tiling,Medium
+853,Car Fleet,Medium
+779,K-th Symbol in Grammar,Medium
+502,IPO,Hard
+1472,Design Browser History,Medium
+501,Find Mode in Binary Search Tree,Easy
+867,Transpose Matrix,Easy
+472,Concatenated Words,Hard
+1657,Determine if Two Strings Are Close,Medium
+890,Find and Replace Pattern,Medium
+1823,Find the Winner of the Circular Game,Medium
+176,Second Highest Salary,Medium
+688,Knight Probability in Chessboard,Medium
+461,Hamming Distance,Easy
+1710,Maximum Units on a Truck,Easy
+959,Regions Cut By Slashes,Medium
+611,Valid Triangle Number,Medium
+473,Matchsticks to Square,Medium
+705,Design HashSet,Easy
+175,Combine Two Tables,Easy
+576,Out of Boundary Paths,Medium
+990,Satisfiability of Equality Equations,Medium
+513,Find Bottom Left Tree Value,Medium
+630,Course Schedule III,Hard
+1035,Uncrossed Lines,Medium
+838,Push Dominoes,Medium
+1920,Build Array from Permutation,Easy
+1578,Minimum Time to Make Rope Colorful,Medium
+1641,Count Sorted Vowel Strings,Medium
+197,Rising Temperature,Easy
+1353,Maximum Number of Events That Can Be Attended,Medium
+2149,Rearrange Array Elements by Sign,Medium
+556,Next Greater Element III,Medium
+719,Find K-th Smallest Pair Distance,Hard
+1146,Snapshot Array,Medium
+1202,Smallest String With Swaps,Medium
+1074,Number of Submatrices That Sum to Target,Hard
+1041,Robot Bounded In Circle,Medium
+1588,Sum of All Odd Length Subarrays,Easy
+1345,Jump Game IV,Hard
+1557,Minimum Number of Vertices to Reach All Nodes,Medium
+1514,Path with Maximum Probability,Medium
+1456,Maximum Number of Vowels in a Substring of Given Length,Medium
+2130,Maximum Twin Sum of a Linked List,Medium
+1443,Minimum Time to Collect All Apples in a Tree,Medium
+1382,Balance a Binary Search Tree,Medium
+791,Custom Sort String,Medium
+491,Non-decreasing Subsequences,Medium
+273,Integer to English Words,Hard
+887,Super Egg Drop,Hard
+1161,Maximum Level Sum of a Binary Tree,Medium
+622,Design Circular Queue,Medium
+799,Champagne Tower,Medium
+429,N-ary Tree Level Order Traversal,Medium
+2444,Count Subarrays With Fixed Bounds,Hard
+1976,Number of Ways to Arrive at Destination,Medium
+1372,Longest ZigZag Path in a Binary Tree,Medium
+263,Ugly Number,Easy
+1572,Matrix Diagonal Sum,Easy
+282,Expression Add Operators,Hard
+766,Toeplitz Matrix,Easy
+1129,Shortest Path with Alternating Colors,Medium
+1929,Concatenation of Array,Easy
+566,Reshape the Matrix,Easy
+623,Add One Row to Tree,Medium
+832,Flipping an Image,Easy
+783,Minimum Distance Between BST Nodes,Easy
+303,Range Sum Query - Immutable,Easy
+1636,Sort Array by Increasing Frequency,Easy
+950,Reveal Cards In Increasing Order,Medium
+326,Power of Three,Easy
+769,Max Chunks To Make Sorted,Medium
+318,Maximum Product of Word Lengths,Medium
+989,Add to Array-Form of Integer,Easy
+2035,Partition Array Into Two Arrays to Minimize Sum Difference,Hard
+846,Hand of Straights,Medium
+909,Snakes and Ladders,Medium
+1326,Minimum Number of Taps to Open to Water a Garden,Hard
+449,Serialize and Deserialize BST,Medium
+1396,Design Underground System,Medium
+87,Scramble String,Hard
+1335,Minimum Difficulty of a Job Schedule,Hard
+1329,Sort the Matrix Diagonally,Medium
+187,Repeated DNA Sequences,Medium
+363,Max Sum of Rectangle No Larger Than K,Hard
+520,Detect Capital,Easy
+916,Word Subsets,Medium
+1696,Jump Game VI,Medium
+1095,Find in Mountain Array,Hard
+1021,Remove Outermost Parentheses,Easy
+1334,Find the City With the Smallest Number of Neighbors at a Threshold Distance,Medium
+462,Minimum Moves to Equal Array Elements II,Medium
+164,Maximum Gap,Medium
+1402,Reducing Dishes,Hard
+480,Sliding Window Median,Hard
+877,Stone Game,Medium
+1679,Max Number of K-Sum Pairs,Medium
+446,Arithmetic Slices II - Subsequence,Hard
+1019,Next Greater Node In Linked List,Medium
+1171,Remove Zero Sum Consecutive Nodes from Linked List,Medium
+314,Binary Tree Vertical Order Traversal,Medium
+172,Factorial Trailing Zeroes,Medium
+1022,Sum of Root To Leaf Binary Numbers,Easy
+261,Graph Valid Tree,Medium
+1395,Count Number of Teams,Medium
+948,Bag of Tokens,Medium
+1219,Path with Maximum Gold,Medium
+1140,Stone Game II,Medium
+1283,Find the Smallest Divisor Given a Threshold,Medium
+1834,Single-Threaded CPU,Medium
+633,Sum of Square Numbers,Medium
+526,Beautiful Arrangement,Medium
+1695,Maximum Erasure Value,Medium
+823,Binary Trees With Factors,Medium
+889,Construct Binary Tree from Preorder and Postorder Traversal,Medium
+414,Third Maximum Number,Easy
+1218,Longest Arithmetic Subsequence of Given Difference,Medium
+1338,Reduce Array Size to The Half,Medium
+147,Insertion Sort List,Medium
+1457,Pseudo-Palindromic Paths in a Binary Tree,Medium
+2101,Detonate the Maximum Bombs,Medium
+859,Buddy Strings,Easy
+1049,Last Stone Weight II,Medium
+849,Maximize Distance to Closest Person,Medium
+1220,Count Vowels Permutation,Hard
+366,Find Leaves of Binary Tree,Medium
+286,Walls and Gates,Medium
+1122,Relative Sort Array,Easy
+1007,Minimum Domino Rotations For Equal Row,Medium
+821,Shortest Distance to a Character,Easy
+1014,Best Sightseeing Pair,Medium
+1323,Maximum 69 Number,Easy
+589,N-ary Tree Preorder Traversal,Easy
+860,Lemonade Change,Easy
+433,Minimum Genetic Mutation,Medium
+1937,Maximum Number of Points with Cost,Medium
+2096,Step-By-Step Directions From a Binary Tree Node to Another,Medium
+896,Monotonic Array,Easy
+697,Degree of an Array,Easy
+324,Wiggle Sort II,Medium
+682,Baseball Game,Easy
+1383,Maximum Performance of a Team,Hard
+382,Linked List Random Node,Medium
+1544,Make The String Great,Easy
+595,Big Countries,Easy
+476,Number Complement,Easy
+935,Knight Dialer,Medium
+1706,Where Will the Ball Fall,Medium
+1305,All Elements in Two Binary Search Trees,Medium
+412,Fizz Buzz,Easy
+1732,Find the Highest Altitude,Easy
+2390,Removing Stars From a String,Medium
+1282,Group the People Given the Group Size They Belong To,Medium
+1079,Letter Tile Possibilities,Medium
+1662,Check If Two String Arrays are Equivalent,Easy
+1581,Customer Who Visited but Did Not Make Any Transactions,Easy
+1552,Magnetic Force Between Two Balls,Medium
+2385,Amount of Time for Binary Tree to Be Infected,Medium
+1339,Maximum Product of Splitted Binary Tree,Medium
+386,Lexicographical Numbers,Medium
+1359,Count All Valid Pickup and Delivery Options,Hard
+1675,Minimize Deviation in Array,Hard
+648,Replace Words,Medium
+1996,The Number of Weak Characters in the Game,Medium
+941,Valid Mountain Array,Easy
+976,Largest Perimeter Triangle,Easy
+1769,Minimum Number of Operations to Move All Balls to Each Box,Medium
+2542,Maximum Subsequence Score,Medium
+1757,Recyclable and Low Fat Products,Easy
+2024,Maximize the Confusion of an Exam,Medium
+1626,Best Team With No Conflicts,Medium
+857,Minimum Cost to Hire K Workers,Hard
+2187,Minimum Time to Complete Trips,Medium
+1367,Linked List in Binary Tree,Medium
+277,Find the Celebrity,Medium
+845,Longest Mountain in Array,Medium
+1832,Check if the Sentence Is Pangram,Easy
+707,Design Linked List,Medium
+2131,Longest Palindrome by Concatenating Two Letter Words,Medium
+2140,Solving Questions With Brainpower,Medium
+801,Minimum Swaps To Make Sequences Increasing,Hard
+1190,Reverse Substrings Between Each Pair of Parentheses,Medium
+1291,Sequential Digits,Medium
+181,Employees Earning More Than Their Managers,Easy
+340,Longest Substring with At Most K Distinct Characters,Medium
+183,Customers Who Never Order,Easy
+1373,Maximum Sum BST in Binary Tree,Hard
+2616,Minimize the Maximum Difference of Pairs,Medium
+1528,Shuffle String,Easy
+951,Flip Equivalent Binary Trees,Medium
+967,Numbers With Same Consecutive Differences,Medium
+489,Robot Room Cleaner,Hard
+319,Bulb Switcher,Medium
+1325,Delete Leaves With a Given Value,Medium
+1061,Lexicographically Smallest Equivalent String,Medium
+559,Maximum Depth of N-ary Tree,Easy
+1221,Split a String in Balanced Strings,Easy
+1295,Find Numbers with Even Number of Digits,Easy
+2244,Minimum Rounds to Complete All Tasks,Medium
+2104,Sum of Subarray Ranges,Medium
+165,Compare Version Numbers,Medium
+1523,Count Odd Numbers in an Interval Range,Easy
+1315,Sum of Nodes with Even-Valued Grandparent,Medium
+1760,Minimum Limit of Balls in a Bag,Medium
+865,Smallest Subtree with all the Deepest Nodes,Medium
+991,Broken Calculator,Medium
+686,Repeated String Match,Medium
+1347,Minimum Number of Steps to Make Two Strings Anagram,Medium
+962,Maximum Width Ramp,Medium
+1475,Final Prices With a Special Discount in a Shop,Easy
+2405,Optimal Partition of String,Medium
+464,Can I Win,Medium
+1299,Replace Elements with Greatest Element on Right Side,Easy
+323,Number of Connected Components in an Undirected Graph,Medium
+929,Unique Email Addresses,Easy
+2300,Successful Pairs of Spells and Potions,Medium
+1089,Duplicate Zeros,Easy
+945,Minimum Increment to Make Array Unique,Medium
+1405,Longest Happy String,Medium
+629,K Inverse Pairs Array,Hard
+594,Longest Harmonious Subsequence,Easy
+2348,Number of Zero-Filled Subarrays,Medium
+453,Minimum Moves to Equal Array Elements,Medium
+922,Sort Array By Parity II,Easy
+1281,Subtract the Product and Sum of Digits of an Integer,Easy
+590,N-ary Tree Postorder Traversal,Easy
+664,Strange Printer,Hard
+426,Convert Binary Search Tree to Sorted Doubly Linked List,Medium
+584,Find Customer Referee,Easy
+773,Sliding Puzzle,Hard
+1081,Smallest Subsequence of Distinct Characters,Medium
+1614,Maximum Nesting Depth of the Parentheses,Easy
+2305,Fair Distribution of Cookies,Medium
+1802,Maximum Value at a Given Index in a Bounded Array,Medium
+1232,Check If It Is a Straight Line,Easy
+873,Length of Longest Fibonacci Subsequence,Medium
+649,Dota2 Senate,Medium
+923,3Sum With Multiplicity,Medium
+1280,Students and Examinations,Easy
+1579,Remove Max Number of Edges to Keep Graph Fully Traversable,Hard
+1031,Maximum Sum of Two Non-Overlapping Subarrays,Medium
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Medium
+1105,Filling Bookcase Shelves,Medium
+285,Inorder Successor in BST,Medium
+807,Max Increase to Keep City Skyline,Medium
+554,Brick Wall,Medium
+1504,Count Submatrices With All Ones,Medium
+1863,Sum of All Subset XOR Totals,Easy
+2551,Put Marbles in Bags,Hard
+1052,Grumpy Bookstore Owner,Medium
+1905,Count Sub Islands,Medium
+2115,Find All Possible Recipes from Given Supplies,Medium
+2707,Extra Characters in a String,Medium
+1700,Number of Students Unable to Eat Lunch,Easy
+804,Unique Morse Code Words,Easy
+1000,Minimum Cost to Merge Stones,Hard
+880,Decoded String at Index,Medium
+689,Maximum Sum of 3 Non-Overlapping Subarrays,Hard
+1770,Maximum Score from Performing Multiplication Operations,Hard
+1123,Lowest Common Ancestor of Deepest Leaves,Medium
+539,Minimum Time Difference,Medium
+1857,Largest Color Value in a Directed Graph,Hard
+1464,Maximum Product of Two Elements in an Array,Easy
+299,Bulls and Cows,Medium
+942,DI String Match,Easy
+1497,Check If Array Pairs Are Divisible by k,Medium
+1356,Sort Integers by The Number of 1 Bits,Easy
+1009,Complement of Base 10 Integer,Easy
+2215,Find the Difference of Two Arrays,Easy
+925,Long Pressed Name,Easy
+2439,Minimize Maximum of Array,Medium
+1930,Unique Length-3 Palindromic Subsequences,Medium
+1980,Find Unique Binary String,Medium
+1926,Nearest Exit from Entrance in Maze,Medium
+2007,Find Original Array From Doubled Array,Medium
+1910,Remove All Occurrences of a Substring,Medium
+1509,Minimum Difference Between Largest and Smallest Value in Three Moves,Medium
+657,Robot Return to Origin,Easy
+180,Consecutive Numbers,Medium
+1368,Minimum Cost to Make at Least One Valid Path in a Grid,Hard
+1963,Minimum Number of Swaps to Make the String Balanced,Medium
+1371,Find the Longest Substring Containing Vowels in Even Counts,Medium
+869,Reordered Power of 2,Medium
+1751,Maximum Number of Events That Can Be Attended II,Hard
+1901,Find a Peak Element II,Medium
+2246,Longest Path With Different Adjacent Characters,Hard
+1531,String Compression II,Hard
+826,Most Profit Assigning Work,Medium
+2448,Minimum Cost to Make Array Equal,Hard
+1689,Partitioning Into Minimum Number Of Deci-Binary Numbers,Medium
+2360,Longest Cycle in a Graph,Hard
+1200,Minimum Absolute Difference,Easy
+1530,Number of Good Leaf Nodes Pairs,Medium
+1567,Maximum Length of Subarray With Positive Product,Medium
+1346,Check If N and Its Double Exist,Easy
+1314,Matrix Block Sum,Medium
+685,Redundant Connection II,Hard
+837,New 21 Game,Medium
+327,Count of Range Sum,Hard
+2181,Merge Nodes in Between Zeros,Medium
+864,Shortest Path to Get All Keys,Hard
+419,Battleships in a Board,Medium
+1304,Find N Unique Integers Sum up to Zero,Easy
+765,Couples Holding Hands,Hard
+1590,Make Sum Divisible by P,Medium
+920,Number of Music Playlists,Hard
+956,Tallest Billboard,Hard
+89,Gray Code,Medium
+839,Similar String Groups,Hard
+2352,Equal Row and Column Pairs,Medium
+861,Score After Flipping Matrix,Medium
+185,Department Top Three Salaries,Hard
+1615,Maximal Network Rank,Medium
+674,Longest Continuous Increasing Subsequence,Easy
+331,Verify Preorder Serialization of a Binary Tree,Medium
+1903,Largest Odd Number in String,Easy
+1217,Minimum Cost to Move Chips to The Same Position,Easy
+1574,Shortest Subarray to be Removed to Make Array Sorted,Medium
+2218,Maximum Value of K Coins From Piles,Hard
+546,Remove Boxes,Hard
+1328,Break a Palindrome,Medium
+1870,Minimum Speed to Arrive on Time,Medium
+795,Number of Subarrays with Bounded Maximum,Medium
+330,Patching Array,Hard
+381,Insert Delete GetRandom O(1) - Duplicates allowed,Hard
+917,Reverse Only Letters,Easy
+2421,Number of Good Paths,Hard
+30,Substring with Concatenation of All Words,Hard
+988,Smallest String Starting From Leaf,Medium
+1025,Divisor Game,Easy
+256,Paint House,Medium
+178,Rank Scores,Medium
+508,Most Frequent Subtree Sum,Medium
+1519,Number of Nodes in the Sub-Tree With the Same Label,Medium
+1859,Sorting the Sentence,Easy
+552,Student Attendance Record II,Hard
+1331,Rank Transform of an Array,Easy
+563,Binary Tree Tilt,Easy
+1289,Minimum Falling Path Sum II,Hard
+745,Prefix and Suffix Search,Hard
+1381,Design a Stack With Increment Operation,Medium
+2487,Remove Nodes From Linked List,Medium
+1266,Minimum Time Visiting All Points,Easy
+694,Number of Distinct Islands,Medium
+1187,Make Array Strictly Increasing,Hard
+1704,Determine if String Halves Are Alike,Easy
+1461,Check If a String Contains All Binary Codes of Size K,Medium
+436,Find Right Interval,Medium
+1044,Longest Duplicate Substring,Hard
+1608,Special Array With X Elements Greater Than or Equal X,Easy
+2265,Count Nodes Equal to Average of Subtree,Medium
+1481,Least Number of Unique Integers after K Removals,Medium
+182,Duplicate Emails,Easy
+1380,Lucky Numbers in a Matrix,Easy
+1288,Remove Covered Intervals,Medium
+2477,Minimum Fuel Cost to Report to the Capital,Medium
+1424,Diagonal Traverse II,Medium
+475,Heaters,Medium
+477,Total Hamming Distance,Medium
+375,Guess Number Higher or Lower II,Medium
+1108,Defanging an IP Address,Easy
+1436,Destination City,Easy
+561,Array Partition,Easy
+1406,Stone Game III,Hard
+1028,Recover a Tree From Preorder Traversal,Hard
+159,Longest Substring with At Most Two Distinct Characters,Medium
+565,Array Nesting,Medium
+1491,Average Salary Excluding the Minimum and Maximum Salary,Easy
+1822,Sign of the Product of an Array,Easy
+313,Super Ugly Number,Medium
+184,Department Highest Salary,Medium
+1125,Smallest Sufficient Team,Hard
+1922,Count Good Numbers,Medium
+1671,Minimum Number of Removals to Make Mountain Array,Hard
+668,Kth Smallest Number in Multiplication Table,Hard
+2225,Find Players With Zero or One Losses,Medium
+1833,Maximum Ice Cream Bars,Medium
+1684,Count the Number of Consistent Strings,Easy
+828,Count Unique Characters of All Substrings of a Given String,Hard
+541,Reverse String II,Easy
+1502,Can Make Arithmetic Progression From Sequence,Easy
+731,My Calendar II,Medium
+1361,Validate Binary Tree Nodes,Medium
+1160,Find Words That Can Be Formed by Characters,Easy
+888,Fair Candy Swap,Easy
+1389,Create Target Array in the Given Order,Easy
+1669,Merge In Between Linked Lists,Medium
+2316,Count Unreachable Pairs of Nodes in an Undirected Graph,Medium
+166,Fraction to Recurring Decimal,Medium
+1425,Constrained Subsequence Sum,Hard
+528,Random Pick with Weight,Medium
+1661,Average Time of Process per Machine,Easy
+2466,Count Ways To Build Good Strings,Medium
+177,Nth Highest Salary,Medium
+1605,Find Valid Matrix Given Row and Column Sums,Medium
+937,Reorder Data in Log Files,Medium
+690,Employee Importance,Medium
+813,Largest Sum of Averages,Medium
+2461,Maximum Sum of Distinct Subarrays With Length K,Medium
+1422,Maximum Score After Splitting a String,Easy
+432,All O`one Data Structure,Hard
+642,Design Search Autocomplete System,Hard
+2402,Meeting Rooms III,Hard
+1685,Sum of Absolute Differences in a Sorted Array,Medium
+1653,Minimum Deletions to Make String Balanced,Medium
+1673,Find the Most Competitive Subsequence,Medium
+348,Design Tic-Tac-Toe,Medium
+1352,Product of the Last K Numbers,Medium
+985,Sum of Even Numbers After Queries,Medium
+1473,Paint House III,Hard
+636,Exclusive Time of Functions,Medium
+325,Maximum Size Subarray Sum Equals k,Medium
+362,Design Hit Counter,Medium
+1318,Minimum Flips to Make a OR b Equal to c,Medium
+1525,Number of Good Ways to Split a String,Medium
+786,K-th Smallest Prime Fraction,Medium
+535,Encode and Decode TinyURL,Medium
+506,Relative Ranks,Easy
+252,Meeting Rooms,Easy
+223,Rectangle Area,Medium
+975,Odd Even Jump,Hard
+2328,Number of Increasing Paths in a Grid,Hard
+781,Rabbits in Forest,Medium
+1310,XOR Queries of a Subarray,Medium
+939,Minimum Area Rectangle,Medium
+2359,Find Closest Node to Given Two Nodes,Medium
+978,Longest Turbulent Subarray,Medium
+1354,Construct Target Array With Multiple Sums,Hard
+321,Create Maximum Number,Hard
+2389,Longest Subsequence With Limited Sum,Easy
+2483,Minimum Penalty for a Shop,Medium
+599,Minimum Index Sum of Two Lists,Easy
+1462,Course Schedule IV,Medium
+1697,Checking Existence of Edge Length Limited Paths,Hard
+2366,Minimum Replacements to Sort the Array,Hard
+2141,Maximum Running Time of N Computers,Hard
+529,Minesweeper,Medium
+2134,Minimum Swaps to Group All 1's Together II,Medium
+836,Rectangle Overlap,Easy
+1877,Minimize Maximum Pair Sum in Array,Medium
+2401,Longest Nice Subarray,Medium
+2369,Check if There is a Valid Partition For The Array,Medium
+732,My Calendar III,Hard
+720,Longest Word in Dictionary,Medium
+1483,Kth Ancestor of a Tree Node,Hard
+1148,Article Views I,Easy
+1524,Number of Sub-arrays With Odd Sum,Medium
+2462,Total Cost to Hire K Workers,Medium
+1639,Number of Ways to Form a Target String Given a Dictionary,Hard
+1944,Number of Visible People in a Queue,Hard
+2090,K Radius Subarray Averages,Medium
+995,Minimum Number of K Consecutive Bit Flips,Hard
+1603,Design Parking System,Easy
+1743,Restore the Array From Adjacent Pairs,Medium
+1442,Count Triplets That Can Form Two Arrays of Equal XOR,Medium
+716,Max Stack,Hard
+2116,Check if a Parentheses String Can Be Valid,Medium
+1970,Last Day Where You Can Still Cross,Hard
+1773,Count Items Matching a Rule,Easy
+1814,Count Nice Pairs in an Array,Medium
+818,Race Car,Hard
+2563,Count the Number of Fair Pairs,Medium
+730,Count Different Palindromic Subsequences,Hard
+768,Max Chunks To Make Sorted II,Hard
+709,To Lower Case,Easy
+1727,Largest Submatrix With Rearrangements,Medium
+317,Shortest Distance from All Buildings,Hard
+671,Second Minimum Node In a Binary Tree,Easy
+2009,Minimum Number of Operations to Make Array Continuous,Hard
+1793,Maximum Score of a Good Subarray,Hard
+2306,Naming a Company,Hard
+965,Univalued Binary Tree,Easy
+1489,Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree,Hard
+1296,Divide Array in Sets of K Consecutive Numbers,Medium
+305,Number of Islands II,Hard
+726,Number of Atoms,Hard
+1561,Maximum Number of Coins You Can Get,Medium
+1186,Maximum Subarray Sum with One Deletion,Medium
+2235,Add Two Integers,Easy
+2125,Number of Laser Beams in a Bank,Medium
+759,Employee Free Time,Hard
+1962,Remove Stones to Minimize the Total,Medium
+1749,Maximum Absolute Sum of Any Subarray,Medium
+898,Bitwise ORs of Subarrays,Medium
+196,Delete Duplicate Emails,Easy
+1039,Minimum Score Triangulation of Polygon,Medium
+2089,Find Target Indices After Sorting Array,Easy
+879,Profitable Schemes,Hard
+1791,Find Center of Star Graph,Easy
+754,Reach a Number,Medium
+1663,Smallest String With A Given Numeric Value,Medium
+1492,The kth Factor of n,Medium
+1717,Maximum Score From Removing Substrings,Medium
+2272,Substring With Largest Variance,Hard
+1792,Maximum Average Pass Ratio,Medium
+490,The Maze,Medium
+292,Nim Game,Easy
+1444,Number of Ways of Cutting a Pizza,Hard
+284,Peeking Iterator,Medium
+1267,Count Servers that Communicate,Medium
+1262,Greatest Sum Divisible by Three,Medium
+1208,Get Equal Substrings Within Budget,Medium
+270,Closest Binary Search Tree Value,Easy
+914,X of a Kind in a Deck of Cards,Easy
+2492,Minimum Score of a Path Between Two Cities,Medium
+884,Uncommon Words from Two Sentences,Easy
+1964,Find the Longest Valid Obstacle Course at Each Position,Hard
+1630,Arithmetic Subarrays,Medium
+1203,Sort Items by Groups Respecting Dependencies,Hard
+775,Global and Local Inversions,Medium
+1106,Parsing A Boolean Expression,Hard
+679,24 Game,Hard
+1609,Even Odd Tree,Medium
+728,Self Dividing Numbers,Easy
+1032,Stream of Characters,Hard
+458,Poor Pigs,Hard
+524,Longest Word in Dictionary through Deleting,Medium
+339,Nested List Weight Sum,Medium
+1378,Replace Employee ID With The Unique Identifier,Easy
+1189,Maximum Number of Balloons,Easy
+2114,Maximum Number of Words Found in Sentences,Easy
+1569,Number of Ways to Reorder Array to Get Same BST,Hard
+1688,Count of Matches in Tournament,Easy
+1024,Video Stitching,Medium
+627,Swap Salary,Easy
+1255,Maximum Score Words Formed by Letters,Hard
+2418,Sort the People,Easy
+1446,Consecutive Characters,Easy
+1109,Corporate Flight Bookings,Medium
+2336,Smallest Number in Infinite Set,Medium
+2073,Time Needed to Buy Tickets,Easy
+899,Orderly Queue,Hard
+1915,Number of Wonderful Substrings,Medium
+940,Distinct Subsequences II,Hard
+819,Most Common Word,Easy
+1379,Find a Corresponding Node of a Binary Tree in a Clone of That Tree,Easy
+2017,Grid Game,Medium
+352,Data Stream as Disjoint Intervals,Hard
+359,Logger Rate Limiter,Easy
+1260,Shift 2D Grid,Easy
+1518,Water Bottles,Easy
+1400,Construct K Palindrome Strings,Medium
+1871,Jump Game VII,Medium
+820,Short Encoding of Words,Medium
+2251,Number of Flowers in Full Bloom,Hard
+626,Exchange Seats,Medium
+1013,Partition Array Into Three Parts With Equal Sum,Easy
+2364,Count Number of Bad Pairs,Medium
+2812,Find the Safest Path in a Grid,Medium
+2226,Maximum Candies Allocated to K Children,Medium
+2064,Minimized Maximum of Products Distributed to Any Store,Medium
+2006,Count Number of Pairs With Absolute Difference K,Easy
+249,Group Shifted Strings,Medium
+1343,Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,Medium
+1287,Element Appearing More Than 25% In Sorted Array,Easy
+1477,Find Two Non-overlapping Sub-arrays Each With Target Sum,Medium
+944,Delete Columns to Make Sorted,Easy
+500,Keyboard Row,Easy
+274,H-Index,Medium
+915,Partition Array into Disjoint Intervals,Medium
+2279,Maximum Bags With Full Capacity of Rocks,Medium
+2011,Final Value of Variable After Performing Operations,Easy
+346,Moving Average from Data Stream,Easy
+233,Number of Digit One,Hard
+1251,Average Selling Price,Easy
+2381,Shifting Letters II,Medium
+1060,Missing Element in Sorted Array,Medium
+2099,Find Subsequence of Length K With the Largest Sum,Easy
+1332,Remove Palindromic Subsequences,Easy
+2415,Reverse Odd Levels of Binary Tree,Medium
+1051,Height Checker,Easy
+2192,All Ancestors of a Node in a Directed Acyclic Graph,Medium
+2161,Partition Array According to Given Pivot,Medium
+677,Map Sum Pairs,Medium
+952,Largest Component Size by Common Factor,Hard
+910,Smallest Range II,Medium
+1458,Max Dot Product of Two Subsequences,Hard
+390,Elimination Game,Medium
+1799,Maximize Score After N Operations,Hard
+1790,Check if One String Swap Can Make Strings Equal,Easy
+427,Construct Quad Tree,Medium
+575,Distribute Candies,Easy
+2050,Parallel Courses III,Hard
+2962,Count Subarrays Where Max Element Appears at Least K Times,Medium
+870,Advantage Shuffle,Medium
+370,Range Addition,Medium
+2610,Convert an Array Into a 2D Array With Conditions,Medium
+2560,House Robber IV,Medium
+1575,Count All Possible Routes,Hard
+1005,Maximize Sum Of Array After K Negations,Easy
+1416,Restore The Array,Hard
+2092,Find All People With Secret,Hard
+357,Count Numbers with Unique Digits,Medium
+1780,Check if Number is a Sum of Powers of Three,Medium
+1748,Sum of Unique Elements,Easy
+2127,Maximum Employees to Be Invited to a Meeting,Hard
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,Hard
+641,Design Circular Deque,Medium
+2136,Earliest Possible Day of Full Bloom,Hard
+396,Rotate Function,Medium
+1720,Decode XORed Array,Easy
+2196,Create Binary Tree From Descriptions,Medium
+1678,Goal Parser Interpretation,Easy
+1413,Minimum Value to Get Positive Step by Step Sum,Easy
+639,Decode Ways II,Hard
+1876,Substrings of Size Three with Distinct Characters,Easy
+1233,Remove Sub-Folders from the Filesystem,Medium
+1510,Stone Game IV,Hard
+2375,Construct Smallest Number From DI String,Medium
+2290,Minimum Obstacle Removal to Reach Corner,Hard
+1484,Group Sold Products By The Date,Easy
+365,Water and Jug Problem,Medium
+440,K-th Smallest in Lexicographical Order,Hard
+2038,Remove Colored Pieces if Both Neighbors are the Same Color,Medium
+276,Paint Fence,Medium
+885,Spiral Matrix III,Medium
+2391,Minimum Amount of Time to Collect Garbage,Medium
+2108,Find First Palindromic String in the Array,Easy
+843,Guess the Word,Hard
+259,3Sum Smaller,Medium
+1535,Find the Winner of an Array Game,Medium
+1275,Find Winner on a Tic Tac Toe Game,Easy
+1861,Rotating the Box,Medium
+638,Shopping Offers,Medium
+487,Max Consecutive Ones II,Medium
+1309,Decrypt String from Alphabet to Integer Mapping,Easy
+1269,Number of Ways to Stay in the Same Place After Some Steps,Hard
+1488,Avoid Flood in The City,Medium
+811,Subdomain Visit Count,Medium
+600,Non-negative Integers without Consecutive Ones,Hard
+1508,Range Sum of Sorted Subarray Sums,Medium
+1394,Find Lucky Integer in an Array,Easy
+570,Managers with at Least 5 Direct Reports,Medium
+715,Range Module,Hard
+969,Pancake Sorting,Medium
+780,Reaching Points,Hard
+936,Stamping The Sequence,Hard
+1913,Maximum Product Difference Between Two Pairs,Easy
+2302,Count Subarrays With Score Less Than K,Hard
+954,Array of Doubled Pairs,Medium
+1921,Eliminate Maximum Number of Monsters,Medium
+333,Largest BST Subtree,Medium
+1759,Count Number of Homogenous Substrings,Medium
+2256,Minimum Average Difference,Medium
+588,Design In-Memory File System,Hard
+514,Freedom Trail,Hard
+1114,Print in Order,Easy
+2353,Design a Food Rating System,Medium
+1366,Rank Teams by Votes,Medium
+1197,Minimum Knight Moves,Medium
+1503,Last Moment Before All Ants Fall Out of a Plank,Medium
+957,Prison Cells After N Days,Medium
+1654,Minimum Jumps to Reach Home,Medium
+271,Encode and Decode Strings,Medium
+1886,Determine Whether Matrix Can Be Obtained By Rotation,Easy
+609,Find Duplicate File in System,Medium
+1042,Flower Planting With No Adjacent,Medium
+2054,Two Best Non-Overlapping Events,Medium
+1496,Path Crossing,Easy
+401,Binary Watch,Easy
+2667,Create Hello World Function,Easy
+1652,Defuse the Bomb,Easy
+2537,Count the Number of Good Subarrays,Medium
+1104,Path In Zigzag Labelled Binary Tree,Medium
+1856,Maximum Subarray Min-Product,Medium
+2458,Height of Binary Tree After Subtree Removal Queries,Hard
+2220,Minimum Bit Flips to Convert Number,Easy
+1415,The k-th Lexicographical String of All Happy Strings of Length n,Medium
+2331,Evaluate Boolean Binary Tree,Easy
+1392,Longest Happy Prefix,Hard
+764,Largest Plus Sign,Medium
+1650,Lowest Common Ancestor of a Binary Tree III,Medium
+2620,Counter,Easy
+587,Erect the Fence,Hard
+1884,Egg Drop With 2 Eggs and N Floors,Medium
+848,Shifting Letters,Medium
+465,Optimal Account Balancing,Hard
+2370,Longest Ideal Subsequence,Medium
+467,Unique Substrings in Wraparound String,Medium
+1460,Make Two Arrays Equal by Reversing Subarrays,Easy
+2529,Maximum Count of Positive Integer and Negative Integer,Easy
+1765,Map of Highest Peak,Medium
+1387,Sort Integers by The Power Value,Medium
+1545,Find Kth Bit in Nth Binary String,Medium
+1598,Crawler Log Folder,Easy
+1124,Longest Well-Performing Interval,Medium
+943,Find the Shortest Superstring,Hard
+1582,Special Positions in a Binary Matrix,Easy
+1593,Split a String Into the Max Number of Unique Substrings,Medium
+1191,K-Concatenation Maximum Sum,Medium
+2516,Take K of Each Character From Left and Right,Medium
+1991,Find the Middle Index in Array,Easy
+2236,Root Equals Sum of Children,Easy
+1716,Calculate Money in Leetcode Bank,Easy
+1551,Minimum Operations to Make Array Equal,Medium
+624,Maximum Distance in Arrays,Medium
+2160,Minimum Sum of Four Digit Number After Splitting Digits,Easy
+1712,Ways to Split Array Into Three Subarrays,Medium
+1854,Maximum Population Year,Easy
+1758,Minimum Changes To Make Alternating Binary String,Easy
+2016,Maximum Difference Between Increasing Elements,Easy
+727,Minimum Window Subsequence,Hard
+1408,String Matching in an Array,Easy
+1601,Maximum Number of Achievable Transfer Requests,Hard
+2433,Find The Original Array of Prefix Xor,Medium
+2762,Continuous Subarrays,Medium
+2392,Build a Matrix With Conditions,Hard
+1486,XOR Operation in an Array,Easy
+2742,Painting the Walls,Hard
+1845,Seat Reservation Manager,Medium
+2000,Reverse Prefix of Word,Easy
+1781,Sum of Beauty of All Substrings,Medium
+1763,Longest Nice Substring,Easy
+1247,Minimum Swaps to Make Strings Equal,Medium
+676,Implement Magic Dictionary,Medium
+851,Loud and Rich,Medium
+2327,Number of People Aware of a Secret,Medium
+1680,Concatenation of Consecutive Binary Numbers,Medium
+65,Valid Number,Hard
+2406,Divide Intervals Into Minimum Number of Groups,Medium
+902,Numbers At Most N Given Digit Set,Hard
+829,Consecutive Numbers Sum,Hard
+161,One Edit Distance,Medium
+808,Soup Servings,Medium
+2337,Move Pieces to Obtain a String,Medium
+1420,Build Array Where You Can Find The Maximum Exactly K Comparisons,Hard
+2870,Minimum Number of Operations to Make Array Empty,Medium
+2094,Finding 3-Digit Even Numbers,Easy
+1992,Find All Groups of Farmland,Medium
+1942,The Number of the Smallest Unoccupied Chair,Medium
+1261,Find Elements in a Contaminated Binary Tree,Medium
+693,Binary Number with Alternating Bits,Easy
+1404,Number of Steps to Reduce a Number in Binary Representation to One,Medium
+384,Shuffle an Array,Medium
+2037,Minimum Number of Moves to Seat Everyone,Easy
+545,Boundary of Binary Tree,Medium
+961,N-Repeated Element in Size 2N Array,Easy
+397,Integer Replacement,Medium
+1499,Max Value of Equation,Hard
+405,Convert a Number to Hexadecimal,Easy
+2342,Max Sum of a Pair With Equal Sum of Digits,Medium
+1145,Binary Tree Coloring Game,Medium
+2289,Steps to Make Array Non-decreasing,Medium
+835,Image Overlap,Medium
+1624,Largest Substring Between Two Equal Characters,Easy
+1934,Confirmation Rate,Medium
+2044,Count Number of Maximum Bitwise-OR Subsets,Medium
+855,Exam Room,Medium
+577,Employee Bonus,Easy
+1550,Three Consecutive Odds,Easy
+1286,Iterator for Combination,Medium
+738,Monotone Increasing Digits,Medium
+2008,Maximum Earnings From Taxi,Medium
+620,Not Boring Movies,Easy
+398,Random Pick Index,Medium
+505,The Maze II,Medium
+2785,Sort Vowels in a String,Medium
+2467,Most Profitable Path in a Tree,Medium
+1911,Maximum Alternating Subsequence Sum,Medium
+1664,Ways to Make a Fair Array,Medium
+2367,Number of Arithmetic Triplets,Easy
+1344,Angle Between Hands of a Clock,Medium
+1726,Tuple with Same Product,Medium
+2264,Largest 3-Same-Digit Number in String,Easy
+388,Longest Absolute File Path,Medium
+262,Trips and Users,Hard
+1707,Maximum XOR With an Element From Array,Hard
+2058,Find the Minimum and Maximum Number of Nodes Between Critical Points,Medium
+2485,Find the Pivot Integer,Easy
+1683,Invalid Tweets,Easy
+1167,Minimum Cost to Connect Sticks,Medium
+265,Paint House II,Hard
+1102,Path With Maximum Minimum Value,Medium
+1985,Find the Kth Largest Integer in the Array,Medium
+550,Game Play Analysis IV,Medium
+2285,Maximum Total Importance of Roads,Medium
+607,Sales Person,Easy
+272,Closest Binary Search Tree Value II,Hard
+1054,Distant Barcodes,Medium
+608,Tree Node,Medium
+1072,Flip Columns For Maximum Number of Equal Rows,Medium
+1055,Shortest Way to Form String,Medium
+2055,Plates Between Candles,Medium
+708,Insert into a Sorted Circular Linked List,Medium
+805,Split Array With Same Average,Hard
+878,Nth Magical Number,Hard
+1313,Decompress Run-Length Encoded List,Easy
+747,Largest Number At Least Twice of Others,Easy
+1068,Product Sales Analysis I,Easy
+691,Stickers to Spell Word,Hard
+1762,Buildings With an Ocean View,Medium
+2419,Longest Subarray With Maximum Bitwise AND,Medium
+777,Swap Adjacent in LR String,Medium
+1252,Cells with Odd Values in a Matrix,Easy
+2594,Minimum Time to Repair Cars,Medium
+1455,Check If a Word Occurs As a Prefix of Any Word in a Sentence,Easy
+1909,Remove One Element to Make the Array Strictly Increasing,Easy
+2373,Largest Local Values in a Matrix,Easy
+564,Find the Closest Palindrome,Hard
+1201,Ugly Number III,Medium
+1827,Minimum Operations to Make the Array Increasing,Easy
+1570,Dot Product of Two Sparse Vectors,Medium
+2045,Second Minimum Time to Reach Destination,Hard
+1178,Number of Valid Words for Each Puzzle,Hard
+2053,Kth Distinct String in an Array,Easy
+2379,Minimum Recolors to Get K Consecutive Black Blocks,Easy
+495,Teemo Attacking,Easy
+1750,Minimum Length of String After Deleting Similar Ends,Medium
+243,Shortest Word Distance,Easy
+2597,The Number of Beautiful Subsets,Medium
+1568,Minimum Number of Days to Disconnect Island,Hard
+2326,Spiral Matrix IV,Medium
+2357,Make Array Zero by Subtracting Equal Amounts,Easy
+1888,Minimum Number of Flips to Make the Binary String Alternating,Medium
+1559,Detect Cycles in 2D Grid,Medium
+1439,Find the Kth Smallest Sum of a Matrix With Sorted Rows,Hard
+675,Cut Off Trees for Golf Event,Hard
+2022,Convert 1D Array Into 2D Array,Easy
+1800,Maximum Ascending Subarray Sum,Easy
+1151,Minimum Swaps to Group All 1's Together,Medium
+1234,Replace the Substring for Balanced String,Medium
+1887,Reduction Operations to Make the Array Elements Equal,Medium
+1824,Minimum Sideway Jumps,Medium
+1701,Average Waiting Time,Medium
+255,Verify Preorder Sequence in Binary Search Tree,Medium
+2779,Maximum Beauty of an Array After Applying Operation,Medium
+2034,Stock Price Fluctuation ,Medium
+2070,Most Beautiful Item for Each Query,Medium
+1829,Maximum XOR for Each Query,Medium
+2281,Sum of Total Strength of Wizards,Hard
+1855,Maximum Distance Between a Pair of Values,Medium
+1428,Leftmost Column with at Least a One,Medium
+1164,Product Price at a Given Date,Medium
+1691,Maximum Height by Stacking Cuboids ,Hard
+306,Additive Number,Medium
+280,Wiggle Sort,Medium
+250,Count Univalue Subtrees,Medium
+1979,Find Greatest Common Divisor of Array,Easy
+2816,Double a Number Represented as a Linked List,Medium
+2182,Construct String With Repeat Limit,Medium
+833,Find And Replace in String,Medium
+1541,Minimum Insertions to Balance a Parentheses String,Medium
+2482,Difference Between Ones and Zeros in Row and Column,Medium
+596,Classes With at Least 5 Students,Easy
+2685,Count the Number of Complete Components,Medium
+2471,Minimum Number of Operations to Sort a Binary Tree by Level,Medium
+507,Perfect Number,Easy
+2540,Minimum Common Value,Easy
+661,Image Smoother,Easy
+1136,Parallel Courses,Medium
+220,Contains Duplicate III,Hard
+296,Best Meeting Point,Hard
+1894,Find the Student that Will Replace the Chalk,Medium
+1193,Monthly Transactions I,Medium
+1168,Optimize Water Distribution in a Village,Hard
+2262,Total Appeal of A String,Hard
+1297,Maximum Number of Occurrences of a Substring,Medium
+1816,Truncate Sentence,Easy
+2641,Cousins in Binary Tree II,Medium
+1278,Palindrome Partitioning III,Hard
+1300,Sum of Mutated Array Closest to Target,Medium
+2574,Left and Right Sum Differences,Easy
+1638,Count Substrings That Differ by One Character,Medium
+2416,Sum of Prefix Scores of Strings,Hard
+1828,Queries on Number of Points Inside a Circle,Medium
+400,Nth Digit,Medium
+1945,Sum of Digits of String After Convert,Easy
+2221,Find Triangular Sum of an Array,Medium
+549,Binary Tree Longest Consecutive Sequence II,Medium
+803,Bricks Falling When Hit,Hard
+1534,Count Good Triplets,Easy
+1986,Minimum Number of Work Sessions to Finish the Tasks,Medium
+2206,Divide Array Into Equal Pairs,Easy
+2751,Robot Collisions,Hard
+817,Linked List Components,Medium
+842,Split Array into Fibonacci Sequence,Medium
+2270,Number of Ways to Split Array,Medium
+163,Missing Ranges,Easy
+1786,Number of Restricted Paths From First to Last Node,Medium
+254,Factor Combinations,Medium
+772,Basic Calculator III,Hard
+1340,Jump Game V,Hard
+854,K-Similar Strings,Hard
+2698,Find the Punishment Number of an Integer,Medium
+1957,Delete Characters to Make Fancy String,Easy
+1015,Smallest Integer Divisible by K,Medium
+1099,Two Sum Less Than K,Easy
+482,License Key Formatting,Easy
+298,Binary Tree Longest Consecutive Sequence,Medium
+2294,Partition Array Such That Maximum Difference Is K,Medium
+1478,Allocate Mailboxes,Hard
+364,Nested List Weight Sum II,Medium
+470,Implement Rand10() Using Rand7(),Medium
+2040,Kth Smallest Product of Two Sorted Arrays,Hard
+2486,Append Characters to String to Make Subsequence,Medium
+1897,Redistribute Characters to Make All Strings Equal,Easy
+1975,Maximum Matrix Sum,Medium
+2559,Count Vowel Strings in Ranges,Medium
+2966,Divide Array Into Arrays With Max Difference,Medium
+1135,Connecting Cities With Minimum Cost,Medium
+2958,Length of Longest Subarray With at Most K Frequency,Medium
+2351,First Letter to Appear Twice,Easy
+2049,Count Nodes With the Highest Score,Medium
+1718,Construct the Lexicographically Largest Valid Sequence,Medium
+919,Complete Binary Tree Inserter,Medium
+1873,Calculate Special Bonus,Easy
+858,Mirror Reflection,Medium
+1411,Number of Ways to Paint N × 3 Grid,Hard
+2434,Using a Robot to Print the Lexicographically Smallest String,Medium
+418,Sentence Screen Fitting,Medium
+2311,Longest Binary Subsequence Less Than or Equal to K,Medium
+2210,Count Hills and Valleys in an Array,Easy
+536,Construct Binary Tree from String,Medium
+2275,Largest Combination With Bitwise AND Greater Than Zero,Medium
+1648,Sell Diminishing-Valued Colored Balls,Medium
+582,Kill Process,Medium
+932,Beautiful Array,Medium
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,Medium
+1846,Maximum Element After Decreasing and Rearranging,Medium
+2657,Find the Prefix Common Array of Two Arrays,Medium
+425,Word Squares,Hard
+2028,Find Missing Observations,Medium
+1388,Pizza With 3n Slices,Hard
+1711,Count Good Meals,Medium
+1984,Minimum Difference Between Highest and Lowest of K Scores,Easy
+2163,Minimum Difference in Sums After Removal of Elements,Hard
+311,Sparse Matrix Multiplication,Medium
+1723,Find Minimum Time to Finish All Jobs,Hard
+616,Add Bold Tag in String,Medium
+1494,Parallel Courses II,Hard
+2807,Insert Greatest Common Divisors in Linked List,Medium
+186,Reverse Words in a String II,Medium
+1419,Minimum Number of Frogs Croaking,Medium
+593,Valid Square,Medium
+586,Customer Placing the Largest Number of Orders,Easy
+1546,Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,Medium
+2185,Counting Words With a Given Prefix,Easy
+1101,The Earliest Moment When Everyone Become Friends,Medium
+266,Palindrome Permutation,Easy
+1128,Number of Equivalent Domino Pairs,Easy
+2033,Minimum Operations to Make a Uni-Value Grid,Medium
+2577,Minimum Time to Visit a Cell In a Grid,Hard
+2661,First Completely Painted Row or Column,Medium
+468,Validate IP Address,Medium
+2109,Adding Spaces to a String,Medium
+1174,Immediate Food Delivery II,Medium
+2325,Decode the Message,Easy
+924,Minimize Malware Spread,Hard
+2460,Apply Operations to an Array,Easy
+2799,Count Complete Subarrays in an Array,Medium
+2429,Minimize XOR,Medium
+776,Split BST,Medium
+2147,Number of Ways to Divide a Long Corridor,Hard
+2404,Most Frequent Even Element,Easy
+2062,Count Vowel Substrings of a String,Easy
+2503,Maximum Number of Points From Grid Queries,Hard
+1851,Minimum Interval to Include Each Query,Hard
+2582,Pass the Pillow,Easy
+244,Shortest Word Distance II,Medium
+1818,Minimum Absolute Sum Difference,Medium
+428,Serialize and Deserialize N-ary Tree,Hard
+2071,Maximum Number of Tasks You Can Assign,Hard
+1156,Swap For Longest Repeated Character Substring,Medium
+911,Online Election,Medium
+2260,Minimum Consecutive Cards to Pick Up,Medium
+1441,Build an Array With Stack Operations,Medium
+2491,Divide Players Into Teams of Equal Skill,Medium
+1003,Check If Word Is Valid After Substitutions,Medium
+2133,Check if Every Row and Column Contains All Numbers,Easy
+1529,Minimum Suffix Flips,Medium
+1813,Sentence Similarity III,Medium
+2097,Valid Arrangement of Pairs,Hard
+723,Candy Crush,Medium
+2139,Minimum Moves to Reach Target Score,Medium
+1537,Get the Maximum Score,Hard
+2583,Kth Largest Sum in a Binary Tree,Medium
+1414,Find the Minimum Number of Fibonacci Numbers Whose Sum Is K,Medium
+2222,Number of Ways to Select Buildings,Medium
+1633,Percentage of Users Attended a Contest,Easy
+2441,Largest Positive Integer That Exists With Its Negative,Easy
+2706,Buy Two Chocolates,Easy
+1321,Restaurant Growth,Medium
+1898,Maximum Number of Removable Characters,Medium
+1320,Minimum Distance to Type a Word Using Two Fingers,Hard
+1981,Minimize the Difference Between Target and Chosen Elements,Medium
+1690,Stone Game VII,Medium
+372,Super Pow,Medium
+2145,Count the Hidden Sequences,Medium
+2193,Minimum Number of Moves to Make Palindrome,Hard
+2411,Smallest Subarrays With Maximum Bitwise OR,Medium
+1231,Divide Chocolate,Hard
+1865,Finding Pairs With a Certain Sum,Medium
+996,Number of Squareful Arrays,Hard
+2176,Count Equal and Divisible Pairs in an Array,Easy
+1553,Minimum Number of Days to Eat N Oranges,Hard
