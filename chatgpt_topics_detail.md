@@ -58,6 +58,8 @@ COMBINE EVERYTHING WITH FEYNMAN TECHNIQUE
 
 Lessons:
 1. +1 When you face a obstacle/constraint, try to solve it instead of giving up. +1: If something disproves your solution, doesn''t mean you are completely wrong, you just need to tweak your approach instead of giving everything up.
+2. Use arrays if size is fixed: for memory opt
+3. Consider duplicate values in lazy deletion in heaps: https://cses.fi/problemset/result/18998463/
 
 
 
@@ -86,6 +88,7 @@ Example: https://leetcode.com/problems/number-of-matching-subsequences/ here for
 * Implementation-heavy problems
 * Coordinate compression
 * Custom sorting:
+ https://leetcode.com/problems/minimum-money-required-before-transactions/
   We define a custom comparator: A function that tells which of the two objects is smaller.
   1. when we want to store primitive structures in a non default way.
   2. When we have a list of non-primitive structures like a struct or class object.
@@ -111,7 +114,9 @@ Example: https://leetcode.com/problems/number-of-matching-subsequences/ here for
   * tuple
   * set
   * Hashing:
+    - reserve the hashmap
     - There are a lot of problems whose description seems crazy, and first thought baffles you but the solutions is pretty simple.
+    - What a solution, see last submission: https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/ 
   * unordered_set
   * multiset
   * map
@@ -198,7 +203,8 @@ Patterns:
 * Euclidean algorithm
 * Extended Euclidean algorithm
 * Modular arithmetic
-* Modular inverse
+* Modular inverse:
+ - https://leetcode.com/problems/count-anagrams/description/
 * Fast exponentiation
 * Modular division
 * Fermat's little theorem
@@ -275,7 +281,8 @@ Patterns:
 
 Constructive is not one algorithm. It's a giant collection of **ways of thinking**.
 
-- I think that going with what the question statement tells you do is not going to work at higher levels, there's a hidden pattern underneath that. Yup, how do I learn this art of twisting the question to spot a different pattern or apply one.
+- I think that going with what the question statement tells you do is not going to work at higher levels, there's a hidden pattern underneath that. Yup, how do I learn this art of twisting the question to spot a different pattern or apply one. With deliberate practice till fingers bleed.
+  For example: https://leetcode.com/problems/cherry-pickup/description/
 - Turn your simulation/solution into proper system instead of random algorithm, to avoid WA.
 - stop overthinking, the author intended a pattern, detect that.
 
@@ -297,7 +304,8 @@ Constructive is not one algorithm. It's a giant collection of **ways of thinking
 * Permutation construction
 * Rotation
 * Reversal
-* Swapping
+* Swapping:
+- https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/
 * Divide into blocks
 * Apply operation any number of times (Simulation is a trap)
     Flow of operation:
@@ -415,17 +423,21 @@ This is probably the single most useful thing for your current weakness.
 * Sort + greedy
 * Choose smallest/largest
 * Earliest deadline
-* Interval scheduling
+* Interval scheduling:
+  - https://leetcode.com/problems/course-schedule-iii/description/
 * Activity selection
 * Exchange argument
-* Greedy matching
-* Two-ended greedy
+* Greedy matching:
+* Two-ended greedy:
+  https://leetcode.com/problems/container-with-most-water/description/
 * Priority queue greedy
 * Maintain best candidate
 * Local improvement
 * Frequency-based greedy
 * Constructive greedy
-* Greedy with prefix/suffix
+* Greedy with prefix/suffix:
+ - https://leetcode.com/problems/minimize-maximum-of-array/description/
+ - 
 * Greedy + binary search
 * Greedy + DSU
 * Greedy + heap
@@ -486,6 +498,8 @@ This is probably the single most useful thing for your current weakness.
 
 # 7. Two Pointers / Sliding Window
 
+- The operation has to be reversible: i.e. we should be able to remove the leftmost element and add a new element to the right, and in both cases get a value of the new window. This isn't possible for lossy operations like AND, XOR, other bitwise ops etc. but again there may be a workaround to it.
+- In windows where occurrence matters, we'll need to store something like first occurrence or last occurences, coz duplicated occurrences will lead to more subarrays. https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/ 
 ## 🟢 Pre-Master
 
 * Fixed-size window
@@ -493,12 +507,17 @@ This is probably the single most useful thing for your current weakness.
 * At-most-K
 * Exactly-K via difference:
   counting subarrays with k distinct.. here f denotes at most function  exactlyK=f(K)−f(K−1)
+  https://leetcode.com/problems/subarrays-with-k-different-integers/description/
 * Monotonic window
 * Two sorted arrays
 * Fast/slow pointer
 * Subarray 
 * Distinct-element windows
 * Frequency windows
+* Sliding window median: Two heaps/bbsts
+    https://leetcode.com/problems/sliding-window-median/
+* min-max tracking window:
+  - https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/
 
 ### 🔴 Post-Master
 
@@ -515,7 +534,8 @@ This is probably the single most useful thing for your current weakness.
 ## 🟢 Pre-Master
 
 * Binary search on sorted array
-* Lower bound
+* Lower bound:
+ https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/
 * Upper bound
 * First/last valid
 * Binary search on answer
@@ -624,6 +644,8 @@ This is probably the single most useful thing for your current weakness.
 * Monotonic stack:
   When we have to maintain a monotonic list of elements for optimal answers, with LIFO operation all the while introducing new elements.
   https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1
+  https://leetcode.com/problems/maximal-rectangle/description/
+  https://leetcode.com/problems/apply-operations-to-maximize-score/description/
 * Monotonic queue:
   When we have to maintain a monotonic list of elements for optimal answers, with FIFO operation all the while introducing new elements.
 * Sliding minimum/maximum:
@@ -671,7 +693,8 @@ This is probably the single most useful thing for your current weakness.
 * Tree DP
 * Rerooting basics
 * Euler tour
-* Binary lifting
+* Binary lifting:
+  https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/
 * LCA
 * Distance between nodes
 * Path queries
@@ -681,7 +704,7 @@ This is probably the single most useful thing for your current weakness.
 * Tree coloring
 
 ### Heavy-Light Decomposition
-
+  https://leetcode.com/problems/kth-ancestor-of-a-tree-node/submissions/2162394583/
 * HLD
 * Path query
 * Path update
@@ -721,7 +744,8 @@ This is probably the single most useful thing for your current weakness.
 ### Shortest path
 
 * BFS shortest path
-* 0-1 BFS
+* 0-1 BFS:
+ https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/
 * Dijkstra
 * Bellman-Ford basics
 * Floyd-Warshall
@@ -750,7 +774,9 @@ This is probably the single most useful thing for your current weakness.
 
 ### Euler
 
-* Euler path
+* Euler path:
+  https://leetcode.com/problems/reconstruct-itinerary/
+  
 * Euler circuit
 * Hierholzer
 
@@ -789,14 +815,20 @@ This is another **massive category**.
 
 * 1D DP
 * 2D DP
+* Multi pointer: count palindromic subsequences
 * Knapsack
 * Subset sum
 * Coin change
-* LIS
+* LIS:
+  https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/
 * LCS
 * Edit distance
 * Grid DP
 * Prefix DP
+* Multi Agent DP: cherry pickup
+* Parameter derivation: 
+- https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/
+- cherry pickup
 
 ### State design
 
@@ -807,7 +839,8 @@ This is another **massive category**.
 * Count/frequency
 * Bitmask
 * Tree node
-* Graph state
+* Graph state:
+    https://leetcode.com/problems/parallel-courses-ii/description/
 
 ### Common structures
 
@@ -821,8 +854,11 @@ This is another **massive category**.
 * permutation dp: https://leetcode.com/problems/special-permutations/description/
 * Subset DP: 
   https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/
+  https://leetcode.com/problems/maximize-score-after-n-operations/description/
+  https://leetcode.com/problems/parallel-courses-ii/description/
 * TSP
-* Assignment
+* Assignment:
+    https://leetcode.com/problems/distribute-repeating-integers/description/
 * SOS DP basics
 
 ### Tree DP
@@ -883,14 +919,17 @@ This is another **massive category**.
 
 * String frequency
 * Prefix/suffix
-* Palindromes
+* Palindromes:
+  To get palindrome numbers in sorted order. just traverse through 1 to n, and attach reverse of the number to its back.
+  - https://leetcode.com/problems/prime-palindrome/description/
 * String hashing
 * Rolling hash
 * Double hash
 * KMP
 * Prefix function
 * Z-function
-* Trie
+* Trie:
+    https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
 * Basic string matching
 * Lexicographic comparison
 * String sorting
@@ -921,12 +960,15 @@ This is another **massive category**.
 
 You should become **very comfortable** here.
 
-* AND / OR / XOR
+* AND / OR / XOR:
+  1. AND: It can only clear bits (make 1->0), never add bits (make 0->1).
+      https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/
 * Bit shifts
 * Set/unset/toggle
 * Lowest set bit
 * Popcount
-* Bit masks
+* Bit masks:
+   https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/
 * Subset enumeration
 * Superset enumeration
 * XOR properties
